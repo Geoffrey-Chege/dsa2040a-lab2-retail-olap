@@ -65,7 +65,7 @@ In your browser, navigate to `http://localhost/phpmyadmin/`.
 3. **Load Sample Data**  
    - Data is in the class pdf
    ![Loading the data](Screenshots/Screenshot-(138)-Lab-2.3.png)
-   ![Confirming the data](Screenshots/Screenshot -(140)-Lab-2.4.png)
+   ![Confirming the data](Screenshots/Screenshot-(140)-Lab-2.4.png)
 
 4. **Verify Tables**  
    - Use the **Browse** tab on each of `customers`, `products`, `stores`, and `transactions` to confirm 2 rows in each.
