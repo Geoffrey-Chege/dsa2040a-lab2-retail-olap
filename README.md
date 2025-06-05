@@ -114,8 +114,8 @@ In your browser, navigate to `http://localhost/phpmyadmin/`.
    - Capture the results
 
    ![OLAP Queries](Screenshots/Screenshot-(146)-Lab-2.9.png)
-   ![OLAP Queries Monthly Sales](Screenshots/Screenshot-(146)-Lab-2.9.png)
-   ![OLAP Queries Top Selling Products](Screenshots/Screenshot-(146)-Lab-2.9.png)
+   ![OLAP Queries Monthly Sales](Screenshots/Screenshot-(147)-Lab-2.10.png)
+   ![OLAP Queries Top Selling Products](Screenshots/Screenshot-(148)-Lab-2.11.png)
 
 ---
 
